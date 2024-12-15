@@ -24,13 +24,13 @@ function Home2() {
 
               <br />
               <br />
-              My areas of interest are building &nbsp;
+              I’m all about pushing the boundaries of  &nbsp;
               <i>
-                <b className="purple">Technologies, Web3 </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
+                <b className="purple">Machine Learning,</b> {" "}
+                 shaping the decentralized future with{" "}
+                <b className="purple">Web3,</b>
+                and revolutionizing industries through cutting-edge{" "}
+                <b className="purple">Blockchain Innovations.</b>
               </i>
               <br />
               <br />
