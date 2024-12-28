@@ -1,6 +1,5 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { CgCPlusPlus } from "react-icons/cg";
 import {
   DiJavascript1,
   DiReact,
@@ -13,10 +12,8 @@ import {
 } from "react-icons/di";
 import {
   SiExpress,
-  SiFirebase,
   SiLaravel,
   SiTailwindcss,
-  SiPostgresql,
 
 } from "react-icons/si";
 
