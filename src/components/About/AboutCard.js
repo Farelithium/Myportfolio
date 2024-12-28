@@ -8,13 +8,14 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Soumyajit Behera </span>
-            from <span className="purple"> Bhubaneswar, India.</span>
+            Hi Everyone, I am <span className="purple">Muhammad Farel Firdaus </span>
+            from <span className="purple"> Bandung.</span>
             <br />
-            I am currently employed as a software developer at Juspay.
+            Currently, I am studying at ITENAS with a major in Informatics, and I am currently in my first semester.
             <br />
-            I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
-            Mesra.
+            I have a great interest in technology, especially in <span className="purple"> Machine Learning </span> and <span className="purple"> Blockchain. </span> 
+            <br />
+            I am very enthusiastic to learn and develop my skills in this field, and hope to contribute to technological innovation in the future.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -24,17 +25,17 @@ function AboutCard() {
               <ImPointRight /> Playing Games
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> Reading Light Novel
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Watching Movie
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+          "There is nothing impossible to him who will try."{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Alexander the Great</footer>
         </blockquote>
       </Card.Body>
     </Card>
