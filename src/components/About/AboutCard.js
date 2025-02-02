@@ -11,9 +11,9 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Muhammad Farel Firdaus </span>
             from <span className="purple"> Bandung.</span>
             <br />
-            Currently, I am studying at ITENAS with a major in Informatics, and I am currently in my first semester.
+            Currently, I am studying at ITENAS with a major in Informatics, and I am currently in the first semester of 2024.
             <br />
-            I have a great interest in technology, especially in <span className="purple"> Machine Learning </span> and <span className="purple"> Blockchain. </span> 
+            I have a great interest in technology, especially in <span className="purple"> Artificial Intelligence </span> and <span className="purple"> Blockchain. </span> 
             <br />
             I am very enthusiastic to learn and develop my skills in this field, and hope to contribute to technological innovation in the future.
             <br />
@@ -22,13 +22,16 @@ function AboutCard() {
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Playing Music
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> Watching Movie / Film
             </li>
             <li className="about-activity">
               <ImPointRight /> Reading Light Novel
             </li>
             <li className="about-activity">
-              <ImPointRight /> Playing Music
+              <ImPointRight /> Playing Games
             </li>
           </ul>
 
