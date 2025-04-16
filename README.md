@@ -23,7 +23,6 @@ Halo! Gue Muhammad Farel Firdaus, mahasiswa Informatika dari ITENAS, dan ini ada
 ## 🖼️ Preview
 
 ![Preview](screenshot.png)  
-*Ganti file `screenshot.png` kalau mau tampilan preview di sini.*
 
 ---
 
