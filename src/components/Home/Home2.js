@@ -26,7 +26,7 @@ function Home2() {
               <br />
               I’m all about pushing the boundaries of  &nbsp;
               <i>
-                <b className="purple">Machine Learning,</b> {" "}
+                <b className="purple">Artificial Intelligence,</b> {" "}
                  shaping the decentralized future with{" "}
                 <b className="purple">Web3,</b>
                 and revolutionizing industries through cutting-edge{" "}
