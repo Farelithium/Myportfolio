@@ -1,7 +1,5 @@
 {
-  "name": "farel-portfolio",
-  "author": "Muhammad Farel Firdaus",
-  "license": "MIT"
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
