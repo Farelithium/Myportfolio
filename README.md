@@ -1,6 +1,6 @@
 # ✨ Farel's Portfolio Web
 
-Halo! Gue Muhammad Farel Firdaus, mahasiswa Informatika dari ITENAS, dan ini adalah web portfolio pribadi gue.  
+Hey there! I'm Muhammad Farel Firdaus, an Informatics student at ITENAS, and this is my personal portfolio website.  
 
 ---
 
@@ -12,11 +12,11 @@ Halo! Gue Muhammad Farel Firdaus, mahasiswa Informatika dari ITENAS, dan ini ada
 
 ---
 
-## 🧩 Fitur
+## 🧩 Features
 
-- Landing page yang clean dan responsive
-- Section untuk project-project pribadi
-- Kontak langsung ke email & sosmed
+- Clean and responsive landing page
+- Section to showcase personal projects
+- Direct contact links (email & social media)
 
 ---
 
@@ -26,7 +26,7 @@ Halo! Gue Muhammad Farel Firdaus, mahasiswa Informatika dari ITENAS, dan ini ada
 
 ---
 
-## 🛠 Cara Jalankan di Lokal
+## 🛠 How to Run Locally
 
 ```bash
 git clone https://github.com/Farelithium/Farel-Portfolio.git
