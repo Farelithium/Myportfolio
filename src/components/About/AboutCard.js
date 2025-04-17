@@ -7,19 +7,18 @@ function AboutCard() {
     <Card className="quote-card-view">
       <Card.Body>
         <blockquote className="blockquote mb-0">
-          <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Muhammad Farel Firdaus </span>
-            from <span className="purple"> Bandung.</span>
-            <br />
-            Currently, I am studying at ITENAS with a major in Informatics, and I am currently in the first semester of 2024.
-            <br />
-            I have a great interest in technology, especially in <span className="purple"> Artificial Intelligence </span> and <span className="purple"> Blockchain. </span> 
-            <br />
-            I am very enthusiastic to learn and develop my skills in this field, and hope to contribute to technological innovation in the future.
-            <br />
-            <br />
-            Apart from coding, some other activities that I love to do!
-          </p>
+        <p style={{ textAlign: "justify" }}>
+          Hey there! I'm <span className="purple">Muhammad Farel Firdaus</span> from <span className="purple">Bandung</span>.
+          <br />
+          Right now, I’m studying Informatics at ITENAS — just kicked off my first semester in 2024.
+          <br />
+          I’m super into tech stuff, especially <span className="purple">Artificial Intelligence</span> and <span className="purple">Blockchain</span>.
+          <br />
+          I'm always down to learn new things and grow my skills — hoping to be part of something big in the tech world someday.
+          <br />
+          <br />
+          When I’m not coding, I’ve got a bunch of other fun stuff I enjoy too!
+        </p>
           <ul>
             <li className="about-activity">
               <ImPointRight /> Playing Music
