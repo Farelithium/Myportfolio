@@ -31,4 +31,4 @@ Hey there! I'm Muhammad Farel Firdaus, an Informatics student at ITENAS, and thi
 ```bash
 git clone https://github.com/Farelithium/Farel-Portfolio.git
 cd Farel-Portfolio
-# lalu buka index.html di browser favorit lo
+# then open index.html in your favorite browser
