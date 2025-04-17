@@ -14,28 +14,25 @@ function Home2() {
     <Container fluid className="home-about-section" id="about">
       <Container>
         <Row>
-          <Col md={8} className="home-about-description">
-            <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
-            </h1>
-            <p className="home-about-body">
-              I'm interested in programming and at least I've learned something, 
-              I think... 🤷‍♂️
-
-              <br />
-              <br />
-              I’m all about pushing the boundaries of  &nbsp;
-              <i>
-                <b className="purple">Artificial Intelligence,</b> {" "}
-                 shaping the decentralized future with{" "}
-                <b className="purple">Web3,</b>
-                and revolutionizing industries through cutting-edge{" "}
-                <b className="purple">Blockchain Innovations.</b>
-              </i>
-              <br />
-              <br />
-            </p>
-          </Col>
+        <Col md={8} className="home-about-description">
+          <h1 style={{ fontSize: "2.6em" }}>
+            LET ME <span className="purple"> INTRODUCE </span> MYSELF
+          </h1>
+          <p className="home-about-body">
+            I’m into programming — still figuring things out, but hey, at least I’ve started... right? 🤷‍♂️
+            <br />
+            <br />
+            I’m super curious about how far we can go with  
+            <i>
+              <b className="purple"> Artificial Intelligence</b>, messing around with  
+              <b className="purple"> Web3</b> to shape the future,  
+              and diving into the world of  
+              <b className="purple"> Blockchain Innovations</b> to shake things up a bit.
+            </i>
+            <br />
+            <br />
+          </p>
+        </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
               <img src={myImg} className="img-fluid" alt="avatar" />

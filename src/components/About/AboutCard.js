@@ -17,20 +17,20 @@ function AboutCard() {
           I'm always down to learn new things and grow my skills — hoping to be part of something big in the tech world someday.
           <br />
           <br />
-          When I’m not coding, I’ve got a bunch of other fun stuff I enjoy too!
+          Outside of coding, I like to chill and do stuff that helps me relax or get inspired, like:  
         </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Music
+              {/* <ImPointRight /> */} 🎵 Playing music  
             </li>
             <li className="about-activity">
-              <ImPointRight /> Watching Movie / Films
+              {/* <ImPointRight /> */} 🎬 Watching movies/films
             </li>
             <li className="about-activity">
-              <ImPointRight /> Reading Books
+              {/* <ImPointRight /> */} 📚 Reading books
             </li>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              {/* <ImPointRight /> */} 🎮 Playing games
             </li>
           </ul>
 
