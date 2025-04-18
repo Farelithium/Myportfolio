@@ -33,8 +33,6 @@ git clone https://github.com/Farelithium/Farel-Portfolio.git
 cd Farel-Portfolio
 npm start
 
----
-
 # If it can't run, you must install 'npm'
 
 npm install
