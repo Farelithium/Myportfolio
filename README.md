@@ -35,8 +35,7 @@ npm start
 
 ---
 
-## IF can't run, you must install 'npm'
+# If it can't run, you must install 'npm'
 
-```bash
 npm install
 npm start
