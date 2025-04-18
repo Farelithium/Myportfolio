@@ -2,7 +2,7 @@ import React from "react";
 import { Col, Row } from "react-bootstrap";
 import {
   SiVisualstudiocode,
-  SiPostman,
+  SiArduino,
   SiGithub,
   SiVercel,
   SiUbuntu,
@@ -24,7 +24,7 @@ function Toolstack() {
         <SiVercel />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiPostman />
+        <SiArduino />
       </Col>
     </Row>
   );
