@@ -32,3 +32,11 @@ Hey there! I'm Muhammad Farel Firdaus, an Informatics student at ITENAS, and thi
 git clone https://github.com/Farelithium/Farel-Portfolio.git
 cd Farel-Portfolio
 npm start
+
+---
+
+## IF can't run, you must install 'npm'
+
+```bash
+npm install
+npm start
