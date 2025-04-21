@@ -41,10 +41,10 @@ function Techstack() {
         <SiTailwindcss />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiMysql   />
+        <DiPhp />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiPhp />
+        <DiMysql   />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiLaravel />
