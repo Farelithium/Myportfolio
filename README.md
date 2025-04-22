@@ -8,7 +8,7 @@ Hey there! I'm Muhammad Farel Firdaus, an Informatics student at ITENAS, and thi
 
 - **Frontend**: HTML5, CSS3, JavaScript (React)
 - **Tools**: Git, GitHub, Visual Studio Code
-- **Hosting**: GitHub Pages
+- **Hosting**: Vercel
 
 ---
 
